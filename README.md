@@ -35,7 +35,7 @@ Door de SeedSigner-software op het ene apparaat te downloaden en de resultaten o
 
 ## Downloaden en verifiëren
 
-1. Download **beide** bestanden (`.html` en `.html.sig`) via de knop **Code → Download ZIP** of via [Releases](../../releases).
+1. Download **beide** bestanden (`.html` en `.html.sig`) via de groene knop **Code → Download ZIP**, of klik op elk bestand en kies **Download raw file**.
 2. Controleer de GPG-handtekening:
 
    ```bash
